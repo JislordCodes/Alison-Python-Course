@@ -1,0 +1,3 @@
+from selenium.webdriver import Chrome
+d = Chrome()
+d.get('https://www.google.com/search?channel=trow2&client=firefox-b-d&q')

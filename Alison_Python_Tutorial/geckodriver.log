@@ -1,0 +1,22 @@
+1680974053479	geckodriver	INFO	Listening on 127.0.0.1:61253
+1680974056591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jislo\\AppData\\Local\\Temp\\rust_mozprofilelADE74"
+1680974063578	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1680974065474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1680974065474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1680974065474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1680974065475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1680974076126	Marionette	INFO	Listening on port 61263
+1680974076563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.sstatic.net/Js/full-anon.en.js?v=841ab61b2781, line 1: SyntaxError: expected expression, got '.'
+1680974215750	geckodriver	INFO	Listening on 127.0.0.1:61340
+1680974218783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jislo\\AppData\\Local\\Temp\\rust_mozprofileXDSV32"
+1680974219651	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1680974221424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1680974221424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1680974221424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1680974221424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1680974224882	Marionette	INFO	Listening on port 61347
+1680974225148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fchannel%3Dtrow2%26client%3Dfirefox-b-d%26q&q=EgRmWRZjGJLDxqEGIjDhXufuGVhS05Q2IG0U06SSf3BUeqLRDQDx5OxcGfzadQrw34THs1Dr0WrVvgJtk2wyAXI, line 1: SyntaxError: expected expression, got ','

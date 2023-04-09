@@ -1,0 +1,21 @@
+#myList = [1,2,3,6,7,"apple"] #Python accpets different datatypes
+#print(myList)
+
+fruits = [
+    'apple',#0
+    'bannana',#1
+    'pear', #2
+    'strawberries' #3
+]
+
+#print(fruits[1])#index of the string
+
+#print(fruits[:3])#index 0 to 3
+
+#print(fruits[-1])#index from buttom
+
+#print(fruits[::-1])#print backwards
+
+
+#fruits = list (('apple','bannana', 'pear'))#List using constructor
+print(fruits) 

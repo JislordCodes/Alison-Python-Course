@@ -1,0 +1,24 @@
+def myFunction():
+    print("This is our function")
+myFunction()
+
+def betterPrint(string):
+    for char in string:
+        print(char)
+betterPrint("hello")
+
+"""#default parameter
+def betterPrint(string ='you have not set a parameter'):
+    for char in string:
+        print(char)
+
+betterPrint()"""
+
+
+"""#default parameter wirh end variable
+def betterPrint(endl, string ='you have not set a parameter'):#endl must come as the first parameter
+    for char in string:
+        print(char, endl)
+
+betterPrint(1)"""
+
